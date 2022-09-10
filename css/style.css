@@ -63,7 +63,6 @@ button {
 
 .header {
   background-color: #87509c;
-  /* min-height: 100vh; */
 }
 
 .header__top-inner {
@@ -89,11 +88,7 @@ button {
 }
 
 .menu__link:hover {
-  width: 77px;
-  height: 32px;
-  padding: 10px 17px;
   background-color: #643a79;
-  border-radius: 4px;
 }
 
 .header__content {
@@ -914,7 +909,7 @@ input:focus {
     position: absolute;
     transform: translateY(-200%);
     display: block;
-    background-color: #eb7d4b;
+    background-color: #643a79;;
     padding: 10px 0;
     left: 0;
     right: 0;
